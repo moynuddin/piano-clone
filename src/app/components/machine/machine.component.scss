@@ -1,0 +1,38 @@
+.cont {
+  width: 100% !important;
+  height: 100vh;
+  background: #610de8fc;
+  position: relative;
+}
+.title {
+  display: flex;
+  justify-content: center;
+  padding-top: 3rem;
+  color: #fff;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 700;
+  text-decoration: underline;
+}
+.wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80%;
+  width: auto;
+  // background: hotpink;
+  // display: grid;
+  // grid-template-columns: 1fr 1fr 1fr;
+  // grid-gap: 1rem;
+  // padding-top: 2rem;
+}
+.btn {
+  // width: 12rem !important;
+  height: 10rem !important;
+  margin-right: 0.2rem;
+  padding: 0 1rem;
+  background: #fff;
+  color: #262626;
+  border: none;
+  border-radius: 0;
+  box-shadow: 0 0 5px grey;
+}
